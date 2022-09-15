@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Repaso</string>
+    <string name="txt_HelloWorld">Hello World!</string>
+    <string name="txt_Process">Procesar</string>
+    <string name="txt_Default">Mensaje</string>
+    <string name="txt_Name">Nombre</string>
+    <string name="txt_WithName">¿Mensaje con nombre?</string>
+</resources>
